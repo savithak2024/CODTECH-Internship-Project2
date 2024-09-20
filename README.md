@@ -33,3 +33,4 @@ Dynamic Content: Updates the DOM dynamically based on the fetched weather data a
 Error Handling: Displays an error message if the API returns a 404 status (city not found).
 OpenWeatherMap API:
 A weather service API that provides real-time weather information based on the city name. The API returns various weather data in JSON format, which the app processes and displays.
+
